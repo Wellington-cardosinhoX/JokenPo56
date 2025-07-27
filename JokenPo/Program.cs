@@ -22,6 +22,11 @@ namespace JokenPo
             Console.WriteLine("Wellington");
             Console.WriteLine("Cardoso");
 
+            Console.WriteLine();
+            Console.WriteLine();
+            // WELLINGTON
+            Console.WriteLine();
+
             #region JokenPo
             //    Console.WriteLine("Jogo Pedra, Papel e Tesoura");
             //    Console.WriteLine("Escolha: 1 = Pedra, 2 = Papel, 3 = Tesoura");
