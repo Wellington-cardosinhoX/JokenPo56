@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JokenPo", "JokenPo\JokenPo.csproj", "{C16E9DFC-8E2E-4073-B0B6-B85A5033F602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneMoreJokenPo", "OneMoreJokenPo\OneMoreJokenPo.csproj", "{553DA64B-7DBC-4540-BA31-1D1DFE082964}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C16E9DFC-8E2E-4073-B0B6-B85A5033F602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C16E9DFC-8E2E-4073-B0B6-B85A5033F602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C16E9DFC-8E2E-4073-B0B6-B85A5033F602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C16E9DFC-8E2E-4073-B0B6-B85A5033F602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{553DA64B-7DBC-4540-BA31-1D1DFE082964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{553DA64B-7DBC-4540-BA31-1D1DFE082964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{553DA64B-7DBC-4540-BA31-1D1DFE082964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{553DA64B-7DBC-4540-BA31-1D1DFE082964}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F31F70B2-C119-4080-89EB-4AC8D4021BC3}
+	EndGlobalSection
+EndGlobal
