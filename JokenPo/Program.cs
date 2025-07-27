@@ -12,6 +12,12 @@ namespace JokenPo
         static void Main(string[] args)
         {
 
+            // matemática, tá ligado?
+
+            int num1 = 34;
+            int num2 = 50;
+            Console.WriteLine(num1 + num2);
+
             #region JokenPo
             //    Console.WriteLine("Jogo Pedra, Papel e Tesoura");
             //    Console.WriteLine("Escolha: 1 = Pedra, 2 = Papel, 3 = Tesoura");
@@ -107,6 +113,7 @@ namespace JokenPo
             }
 
             Console.WriteLine("Olá, tudo bem?");
+
         }
 
         static string NomeEscolha(int num)
@@ -121,6 +128,8 @@ namespace JokenPo
             #endregion
         }
 
+
+       
 
         
 
