@@ -105,6 +105,8 @@ namespace JokenPo
             {
                 Console.WriteLine("Infelizmente o computador ganhou");
             }
+
+            Console.WriteLine("Olá, tudo bem?");
         }
 
         static string NomeEscolha(int num)
@@ -120,7 +122,7 @@ namespace JokenPo
         }
 
 
-
+        
 
 
 
