@@ -18,6 +18,10 @@ namespace JokenPo
             int num2 = 50;
             Console.WriteLine(num1 + num2);
 
+
+            Console.WriteLine("Wellington");
+            Console.WriteLine("Cardoso");
+
             #region JokenPo
             //    Console.WriteLine("Jogo Pedra, Papel e Tesoura");
             //    Console.WriteLine("Escolha: 1 = Pedra, 2 = Papel, 3 = Tesoura");
